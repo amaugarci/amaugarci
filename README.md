@@ -2,12 +2,12 @@
 
 ## Professional Mobile and Web Software developer is waiting for you.
 
-Until now, I have built many 🌐 & 📱 apps and NFT marketplaces and a lot of Swap sites in Solana network and Ethereum network using solidity & Smart Contract & truffle and Remix & Web3 and Full web stack.<br/>
-I 💖 React.js in front-end libraries and frameworks.
+Until now, I have built many 📱 & 🌐 apps using Flutter, React/React Native, Next.js and other various tech stacks.<br/>
+I 💖 React in front-end libraries and frameworks.
 
-**Why React.js?**
+**Why React?**
 
-React.js provided the solution that developers were looking for.
+React provided the solution that developers were looking for.
 It is very helpful in promoting construction of machine-readable codes and at the same time compounding components into a single-time verifiable file.
 
 I ❤️ also open-source and discuss each other.
@@ -18,7 +18,7 @@ I ❤️ also open-source and discuss each other.
 
 - ❤️ I love writing TypeScript, and building open-source projects on GitHub.
 
-- 💬 Ask me about Node.js | React | React Native | Laravel | Blockchain | Ethereum | Solidity or anything [here](https://github.com/adonis0907/adonis0907/issues)
+- 💬 Ask me about Flutter | Dart | iOS | Java | Kotlin | Swift | Android | React | React Native | Laravel or anything [here](https://github.com/amaugarci/amaugarci/issues)
 <br/><br/>
 
 **Technology Stack**
@@ -29,5 +29,5 @@ I ❤️ also open-source and discuss each other.
 
 **My Stats**
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adonis0907&theme=dark)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonis0907&layout=compact&theme=dark&hide_border=true" /> |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amaugarci&theme=dark)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaugarci&layout=compact&theme=dark&hide_border=true" /> |
 | ------------- | ------------- |
