@@ -25,7 +25,7 @@
         <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
      </td>
      <td>
-      <img alt="dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart">
+      <img alt="dart" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
      </td>
           <td align="center">
        <img alt="css" height=64px src= "https://storage.caktusgroup.com/media/blog-images/drf-logo2.png">
