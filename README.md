@@ -30,18 +30,18 @@
           <td align="center">
        <img alt="iOS" height=64px src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
      </td>
-      <td align="center">
-      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    </td>
-          <td align="center">
+     <td align="center">
+        <img alt="android" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+     </td>
+     <td align="center">
+       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+     </td>
+     <td align="center">
        <img alt="React" height=64px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
      </td> 
      <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     </td>
-     <td align="center">
-       <img alt="css" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-     </td>
      <td align="center">
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
      </td> 
@@ -72,7 +72,7 @@
        <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
      </td>  
     <td align="center">
-       <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+       <img alt="slack" height=64px src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
      </td> 
      <td align="center">
        <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
