@@ -28,7 +28,7 @@
       <img alt="dart" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
      </td>
           <td align="center">
-       <img alt="css" height=64px src= "https://storage.caktusgroup.com/media/blog-images/drf-logo2.png">
+       <img alt="iOS" height=64px src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
      </td>
       <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
