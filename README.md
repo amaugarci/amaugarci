@@ -22,10 +22,10 @@
  <table width="100% height="100%" align="center">
    <tr>
       <td>
-        <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
      </td>
      <td>
-      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <img alt="dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart">
      </td>
           <td align="center">
        <img alt="css" height=64px src= "https://storage.caktusgroup.com/media/blog-images/drf-logo2.png">
