@@ -90,7 +90,7 @@
 
 
  
-<!-- 
+
 <h2> My Projects 📁</h2>
 <a href="https://github.com/yeazin/Movement-Pass-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
@@ -104,7 +104,7 @@
  <a href="https://github.com/yeazin/Zooming-cls">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
 </a>
--->
+
 <br>
 <br>
 
