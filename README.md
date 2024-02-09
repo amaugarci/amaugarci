@@ -9,7 +9,7 @@
    <tr>
      <td> 
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=amaugarci&theme=radical&show_icons=true&count_private=true&hide=prs) </td> 
+![Github stats](https://github-readme-stats.vercel.app/api?username=amaugarci&theme=radical&show_icons=true&count_private=true) </td> 
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaugarci&theme=radical&layout=compact)](https://github.com/amaugarci) </td>
    </tr>
   </table>
