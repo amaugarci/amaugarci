@@ -3,74 +3,7 @@
 <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>
 
 
-<h4>Hi I am 💇‍♂️ , a passionate Blockchain | Cryptography | Web Software engineer from United States.<br/>I am a Self-taught software Developer. I have a profound knowledge in Solidity, Rust, Circom, Noir, ZoKrates, Node.js, zkPassport, zkShuffle, zkJWT, zkEmail, Javascript & React & Next.js Framework. I love to work with new Technologies and like to learn new things everytime. Most recently, I'm researching ZK Proofs and I've developed several projects related to ZK Proofs.<h4>
-  
-
-
-
-  
-<h2> Technologies I like to work with ❤️</h2>
- <table width="100% height="100%" align="center">
-   <tr>
-      <td>
-        <img alt="Solidity" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
-     </td>
-     <td>
-      <img alt="Noir" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/noir/noir-original.svg">
-     </td>
-          <td align="center">
-       <img alt="ZoKrates" height=64px src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/zokrates/zokrates-original.svg">
-     </td>
-     <td align="center">
-        <img alt="Nodejs" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-     </td>
-     <td align="center">
-       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-     </td>
-     <td align="center">
-       <img alt="React" height=64px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-     </td> 
-     <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-    </td>
-     <td align="center">
-       <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-     </td> 
-      <td align="center">
-       <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-     </td> 
-   </tr>
-   <tr>
-          <td align="center">
-       <img alt="pycahrm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
-     </td> 
-     <td align="center">
-       <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-     </td>
-        <td align="center">
-       <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
-     </td>
-    <td align="center">
-       <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-     </td>   
-    <td align="center">
-       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-     </td> 
-       <td align="center">
-       <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-     </td> 
-       <td align="center">
-       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-     </td>  
-    <td align="center">
-       <img alt="slack" height=64px src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
-     </td> 
-     <td align="center">
-       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-     </td> 
-   </tr>
-
- </table>
+<h4>Hi I am 💇‍♂️ , a passionate Web and Mobile Software engineer from United States.<br/>I am a Self-taught software Developer. I have a profound knowledge in Python, Flask | Fast API, Node.js, Javascript & React & Next.js Framework, React Native | Expo. I love to work with new Technologies and like to learn new things everytime. Most recently, I'm researching ZK Proofs and I've developed several projects related to ZK Proofs.<h4>
  
 <br>
 
@@ -108,8 +41,6 @@
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
-**letusgittogether/letusgittogether** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
